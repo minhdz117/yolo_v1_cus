@@ -1,0 +1,12 @@
+Ảnh bao gồm 
+
+Hình dạng:
+    tròn: 0
+    chữ nhật :1
+    tam giác :2
+
+color :
+    đỏ :0
+    vàng :1
+    xanh :2
+
